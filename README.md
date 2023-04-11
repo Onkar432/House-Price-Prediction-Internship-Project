@@ -1,2 +1,17 @@
-# House-Price-Prediction-Internship-Project
-This project provides a highly customizable experience for both buyers and sellers. Through a sophisticated Machine Learning model, this project then predicts the estimated price of the house based on the user's selections, providing a highly accurate and reliable price estimate.
+# House-Price-Prediction-Django-ML
+
+![](https://raw.githubusercontent.com/AryaKagathara/House-Price-Prediction-Django-ML/master/Assets/Image.png) 
+
+## Folder Structure
+Client: React JS 
+Dataset: Bangaluru House Price Prediction Datatset (Kaggle)
+Script: Jupyter Model Script
+Server: Django
+
+## To Work on Project or Run It
+
+Goto Server Folder
+### `cd Server`
+
+Run Project
+### `python server.py`
